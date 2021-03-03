@@ -1,0 +1,13 @@
+Recordar que el USUARIO ES EL REY, TODO ENFOCADO A EL Y SU CONTECTO. QUE SEA SENCILLO, ACCESIBLE, USABLE, ETC. QUE DEJE UNA BUENA SENSACIÓN
+UX-> Sensaciones
+Diseño UX-> conjunto de tecncias para ayudar que la Ux sea mas agradable.
+	FASES DE diseño ux:
+		1.Información
+		2.Organizar la información
+		3.Diseño
+		4.Pruebas, si es viable desde el punto de vista de cliente y usuario
+	Tecnicas más importante para diseñar la experiencia de Usuario:
+		1.Accesibilidad
+		2.Usabilidad
+		3. Arquitectura de información
+		4. Diseño de interacción IxD
